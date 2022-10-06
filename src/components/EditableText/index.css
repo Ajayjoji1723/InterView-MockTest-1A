@@ -1,0 +1,48 @@
+.app-container {
+  display: flex;
+  background-color: #f5d0fe;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+}
+.resp-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  background-color: #ffffff;
+  border-radius: 10px;
+  padding: 20px;
+  padding-bottom: 40px;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+.edit-container {
+  display: flex;
+}
+.input {
+  margin-right: 10px;
+  border: 1px solid #cbd2d9;
+  color: #323f4b;
+}
+.edit {
+  color: #000000;
+  font-size: 24px;
+  font-weight: 500;
+  font-family: 'Roboto';
+}
+
+.button {
+  color: #ffffff;
+  font-size: 14px;
+  font-family: 'Roboto';
+  background-color: #d946ef;
+  border-width: 0px;
+  border-radius: 5px;
+  width: 60px;
+  height: 35px;
+  margin-left: 10px;
+}
+.para {
+  margin-right: 40px;
+}
